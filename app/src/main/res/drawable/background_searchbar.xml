@@ -1,0 +1,8 @@
+<!-- res/drawable/background_searchbar_orange.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="#FAC200"
+        android:endColor="#ACF300"
+        android:angle="45"/>
+    <corners android:radius="8dp" />
+</shape>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHub User\'s Search</string>
+    <string name="username">Username</string>
+    <string name="searchbar_hint">Cari user</string>
+    <string name="table_text_left">FOLLOWERS</string>
+    <string name="table_text_right">FOLLOWING</string>
+</resources>
